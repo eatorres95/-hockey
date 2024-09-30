@@ -1,2 +1,1 @@
-# -hockey
-Activity Egg
+# Migthy Ducks Hockey League
